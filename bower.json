@@ -1,0 +1,13 @@
+{
+	"name": "datasheet",
+	"description": "DataSheet",
+	"authors": [
+		"James Ngo"
+	],
+	"private": true,
+	"dependencies": {
+		"core": "https://github.com/CityofToronto/corejs.git#master",
+		"datatable": "https://github.com/DataTables/DataTables.git#master",
+		"extcotapp": "https://github.com/JamesNgo-CoT/extcotapp.git#master"
+	}
+}
